@@ -1,0 +1,11 @@
+DCMD_200A
+
+Copyright (C) 2024 Meta-Develop
+
+This hardware design repository is licensed under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S-2.0), unless otherwise noted.
+
+Original upstream repository: https://github.com/Meta-Develop/DCMD_200A
+
+Redistributions and modified versions must preserve this notice and provide the Complete Source for the hardware design as required by the CERN-OHL-S-2.0.
+
+Embedded third-party component-library data remains subject to the terms of its respective owners.
